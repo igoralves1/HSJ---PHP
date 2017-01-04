@@ -1,0 +1,6 @@
+<?php
+
+$professionalType=$_POST
+
+
+?>
