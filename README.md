@@ -1,4 +1,4 @@
-# HSJ---PHP
+# 3SC : Suivi Sécuritaire en Service Clinique
 
 Copyright 2017
 
